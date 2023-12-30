@@ -42,7 +42,7 @@
     "dom101": "^1.3.0",
     "extract-text-webpack-plugin": "^3.0.2",
     "html-webpack-plugin": "^5.6.0",
-    "node-sass": "^7.0.0",
+    "node-sass": "^9.0.0",
     "postcss-loader": "^1.0.0",
     "sass-loader": "^13.3.3",
     "style-loader": "^0.13.1",
